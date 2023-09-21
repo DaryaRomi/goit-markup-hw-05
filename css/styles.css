@@ -577,10 +577,10 @@ body{
     color: #2E2F42;
     margin-bottom: 16px;
 }
-.third_element{
+.form-box{
     margin-bottom: 8px;
 }
-.third_element_label{
+.form-label{
     font-size: 12px;
     line-height: 1.17;
     letter-spacing: 0.04em;
