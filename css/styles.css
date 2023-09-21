@@ -471,7 +471,7 @@ body{
 .form-footer{
     display: flex;
 }
-.labela{
+.lab_footer{
     gap: 24px;
 }
 .input{
