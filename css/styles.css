@@ -507,3 +507,6 @@ body{
     border: none;
     border-radius: 4px;
 }
+.icon{
+    margin-left: 16px;
+}
