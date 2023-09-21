@@ -589,10 +589,10 @@ body{
     margin-bottom: 4px;
 
 }
-.ggg{
+.position-svg{
     position: relative;
 }
-.input_first{
+.form-input{
     width: 100%;
     height: 40px;
     border: 1px solid rgba(46, 47, 66, 0.4);
