@@ -580,6 +580,7 @@ body{
     margin-bottom: 16px;
 }
 .form-box{
+    display: block;
     margin-bottom: 8px;
 }
 .callback-hero{
