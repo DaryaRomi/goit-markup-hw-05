@@ -580,7 +580,6 @@ body{
     margin-bottom: 16px;
 }
 .form-box{
-    display: block;
     margin-bottom: 8px;
 }
 .callback-hero{
@@ -635,6 +634,7 @@ body{
     outline: transparent;
     resize: none;
     transition: border-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
+    display: block;
 }
 .tarea:focus{
     border-color: #4D5AE5;
