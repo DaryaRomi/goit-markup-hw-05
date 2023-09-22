@@ -513,7 +513,7 @@
         </div>
         
         <div class="form-box">
-            <label for="user-comment" class="form-label">Comment</label>                
+            <label class="form-label" for="user-comment">Comment</label>                
                 <div class="position-svg">
                     <input  
                     id="user-comment"
@@ -526,12 +526,21 @@
                     </svg>
                 </div>
 
-            <textarea id="user_comment" name="user-comment" placeholder= "Text input" class="textarea"></textarea>
+            <textarea class="textarea" name="user-comment" id="user_comment" 
+                placeholder= "Text input"></textarea>
         </div>
 
 
         <div class="checkbox-addition">
-            <input id="user-privacy" type="checkbox" value="true" name="user-privacy" class="visually-hidden-checkbox-addition-privacy">
+            <input 
+                class="visually-hidden-checkbox-addition-privacy"
+                name="user-privacy"
+                type="checkbox"
+                id="user-privacy"
+                value="true"
+                required
+                />
+
             <label for="user-privacy" class="checkbox-label-text">I accept the terms and conditions of
                 <span class="text-first-part">
                     <svg class="icon-checkbox-boxes-one" width="10" height="8">
@@ -542,7 +551,7 @@
             </label>
         </div>
 
-        <button type="button" class="button_form"></button>
+        <button type="button" class="button_form">Send</button>
     
     </form>
     
