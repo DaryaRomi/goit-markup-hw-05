@@ -583,6 +583,9 @@ body{
 .form-box{
     margin-bottom: 8px;
 }
+.callback-hero{
+    gap 24px;
+}
 .form-label{
     font-size: 12px;
     line-height: 1.17;
