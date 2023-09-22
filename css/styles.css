@@ -634,6 +634,9 @@ body{
 .textarea:focus{
     border-color: #4D5AE5;
 }
+.checkbox-addition{
+    margin-bottom: 24px;
+}
 .checkbox-label-text{
     font-size: 12px;
     line-height: 1.17;
