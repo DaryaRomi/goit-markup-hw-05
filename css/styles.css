@@ -468,10 +468,10 @@ body{
     letter-spacing: 0.02em;
     color: #ffffff;
 }
-.form{
+.forma{
     display: flex;
 }
-.lab_footer{
+.form_lab{
     gap: 24px;
 }
 .input{
