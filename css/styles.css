@@ -460,7 +460,7 @@ body{
     letter-spacing: 0.02em;
     color: #F4F4FD;
 }
-.social-footer{
+.social_footer{
     margin-bottom: 16px;
     font-weight: 500;
     font-size: 16px;
@@ -487,7 +487,7 @@ body{
     border-radius: 4px;
     color: #ffffff;
 }
-.placeholder{
+.input::placeholder{
     color: #ffffff;
 }
 .btn{
