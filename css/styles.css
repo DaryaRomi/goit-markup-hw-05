@@ -472,6 +472,7 @@ body{
     display: flex;
 }
 .form_lab{
+    display: flex;
     gap: 24px;
 }
 .input{
@@ -510,8 +511,6 @@ body{
 .icon{
     margin-left: 16px;
 }
-
-
 .container_modal_window{
     position: fixed;
     top: 0;
