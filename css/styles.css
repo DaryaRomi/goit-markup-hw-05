@@ -605,6 +605,9 @@ body{
 .form-input:focus{
     border-color: #4D5AE5;
 }
+.form-input:focus{
+    fill: #4D5AE5;
+}
 .ggg_svg{
     position: absolute;
     left: 16px;
