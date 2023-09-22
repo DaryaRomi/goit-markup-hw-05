@@ -687,8 +687,3 @@ body{
 .checkbox-addition{
     margin-bottom: 24px;
 }
-.visually-hidden-checkbox-addition-privacy:checked{
-    background-color: #404bbf;
-    border: none;
-    fill: #F4F4FD;
-}
