@@ -634,9 +634,6 @@ body{
 .textarea:focus{
     border-color: #4D5AE5;
 }
-.checkbox-addition{
-    margin-bottom: 24px;
-}
 .checkbox-label-text{
     font-size: 12px;
     line-height: 1.17;
@@ -679,9 +676,4 @@ body{
 }
 .text-privat{
     color: #4d5ae5;
-}
-.visually-hidden-checkbox-addition-privacy:checked{
-    background-color: #404bbf;
-    border: none;
-    fill: #F4F4FD;
 }
