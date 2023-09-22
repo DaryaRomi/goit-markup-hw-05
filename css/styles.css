@@ -490,7 +490,7 @@ body{
 .input::placeholder{
     color: #ffffff;
 }
-.btn{
+.btn_ooo{
     min-width: 165px;
     height: 40px;
     display: flex;
