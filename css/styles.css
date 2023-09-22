@@ -584,7 +584,7 @@ body{
     margin-bottom: 8px;
 }
 .callback-hero{
-    gap 24px;
+    gap: 24px;
 }
 .form-label{
     font-size: 12px;
