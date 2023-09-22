@@ -653,6 +653,11 @@ body{
     justify-content: center;
     fill: transparent;
 }
+.visually-hidden:checked+.text-first-part{
+    background-color: #404bbf;
+    border: none;
+    fill: #F4F4FD;
+}
 .button_form{
     display: block;
     min-width: 169px;
