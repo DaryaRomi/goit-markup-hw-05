@@ -622,14 +622,8 @@ body{
     color: #2E2F42;
     margin-bottom: 16px;
 }
-.ooo{
+.new_name{
     margin-bottom: 16px;
-}
-.form-box{
-    margin-bottom: 8px;
-}
-.callback-hero{
-    gap: 24px;
 }
 .form-label{
     display: block;
