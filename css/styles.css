@@ -711,11 +711,11 @@ body{
     color: var(--IRIS, #4D5AE5);
 }
 .text-first-part{
-    display: inline-flex;
     justify-content: center;
     align-items: center;
-    width: 16px;
     fill: transparent;
+    display: inline-flex;
+    width: 16px;
     height: 16px;
     border: 1px solid rgba(46, 47, 66, 0.4);
     border-radius: 2px;
@@ -746,10 +746,10 @@ body{
     width: 345px;
     margin-bottom: 24px;
 }
-.button_form{
-    min-width: 169px;
-    height: 56px;;
+.checkbox_button {
     display: block;
+    min-width: 169px;
+    height: 56px;
     font-family: "Roboto", sans-serif;
     font-size: 16px;
     font-weight: 500;
@@ -761,14 +761,18 @@ body{
     margin-right: auto;
     padding: 16px 32px;
     border: none;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
     border-radius: 4px;
+    letter-spacing: 0.04em;
     background: var(--IRIS, #4D5AE5);
     box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
     cursor: pointer;
     transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1)
 }
-.button_form:hover,
-.button_form:focus {
+.checkbox_button:hover,
+.checkbox_button:focus {
     background-color: var(--OCEAN, #404BBF);
 }
 .reviev-form-submit-button-text{
