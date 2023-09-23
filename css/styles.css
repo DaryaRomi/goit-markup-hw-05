@@ -625,6 +625,9 @@ body{
 .form-box{
     margin-bottom: 8px;
 }
+.new_name{
+    margin-bottom: 16px;
+}
 .form-label{
     display: block;
     color: #8e8f99;
