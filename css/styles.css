@@ -636,6 +636,7 @@ body{
 }
 .position-svg{
     position: relative;
+    margin-bottom: 8px;
 }
 .form-input{
     width: 100%;
