@@ -725,13 +725,13 @@ body{
     stroke-width: 1px;
     stroke: #FCFCFC;
 }
-.checkbox-input:checked + .checkbox-label > .text-first-part {
+.checkbox-input:checked + .checkbox-label > .checkbox_span {
     background-color: #404bbf;
     border: none;
     fill: #F4F4FD;
 }
 
-.checkbox-input:focus + .checkbox-label > .text-first-part {
+.checkbox-input:focus + .checkbox-label > .checkbox_span {
     outline: 2px solid rgba(0, 0, 225, 0.5);
 }
 
