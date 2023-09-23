@@ -473,8 +473,6 @@ body{
 
 .forma{
     display: flex;
-}
-.form_lab{
     display: flex;
     gap: 24px;
 }
